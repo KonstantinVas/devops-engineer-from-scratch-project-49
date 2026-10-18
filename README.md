@@ -22,7 +22,11 @@ cd devops-engineer-from-scratch-project-49
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+[![Демонстрация игры brain-even](https://asciinema.org/a/DB2OhQlIAwmVydId.svg)](https://asciinema.org/a/DB2OhQlIAwmVydId)
+[![Демонстрация игры brain-calc](https://asciinema.org/a/hm4Barw0NeFEWwpl.svg)](https://asciinema.org/a/hm4Barw0NeFEWwpl)
+[![Демонстрация игры brain-gcd](https://asciinema.org/a/PVDVA68sulVPqvje.svg)](https://asciinema.org/a/PVDVA68sulVPqvje)
+[![Демонстрация игры brain_progression](https://asciinema.org/a/XyGaALhbAmxhVgVr.svg)](https://asciinema.org/a/XyGaALhbAmxhVgVr)
+[![Демонстрация игры brain_prime](https://asciinema.org/a/fLD8UfOpZQFc1lrI.svg)](https://asciinema.org/a/fLD8UfOpZQFc1lrI)
 
 ---
 
