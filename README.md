@@ -13,12 +13,24 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+Клонируйте репозиторий и перейдите в папку проекта:
 
 ```bash
 git clone https://github.com/KonstantinVas/devops-engineer-from-scratch-project-49.git
 cd devops-engineer-from-scratch-project-49
 ```
+
+Установите зависимости, соберите и установите пакет:
+
+````bash
+make install
+make build
+make package-install
+
+```bash
+git clone https://github.com/KonstantinVas/devops-engineer-from-scratch-project-49.git
+cd devops-engineer-from-scratch-project-49
+````
 
 ## Использование
 
