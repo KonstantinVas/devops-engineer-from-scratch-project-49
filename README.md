@@ -2,7 +2,12 @@
 
 [![hexlet-check](https://github.com/KonstantinVas/devops-engineer-from-scratch-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/KonstantinVas/devops-engineer-from-scratch-project-49/actions)
 
-Погрузитесь в экосистему Python и научитесь настраивать рабочее окружение. Подружитесь с менеджером зависимостей и линтером. Поймете, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
+Набор из пяти консольных математических игр:
+проверка чётности, калькулятор, поиск наибольшего общего
+делителя, арифметическая прогрессия и проверка простого числа.
+
+Для победы нужно правильно ответить на три вопроса подряд.
+Неверный ответ завершает игру.
 
 Учебный проект Хекслета: https://ru.hexlet.io/programs/devops-engineer-from-scratch
 Как это должно работать: https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
@@ -22,15 +27,11 @@ cd devops-engineer-from-scratch-project-49
 
 Установите зависимости, соберите и установите пакет:
 
-````bash
+```bash
 make install
 make build
 make package-install
-
-```bash
-git clone https://github.com/KonstantinVas/devops-engineer-from-scratch-project-49.git
-cd devops-engineer-from-scratch-project-49
-````
+```
 
 ## Использование
 
@@ -52,3 +53,7 @@ cd devops-engineer-from-scratch-project-49
 ## О Хекслете
 
 [Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
+
+```
+
+```

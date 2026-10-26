@@ -1,7 +1,7 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "Набор из пяти консольных математических игр: чётность, калькулятор, НОД, прогрессия и простые числа."
 readme = "README.md"
 authors = [
     { name = "KonstantinVas", email = "110903969+KonstantinVas@users.noreply.github.com" }
